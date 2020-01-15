@@ -1,2 +1,2 @@
 # Rust
-All Rust related material
+Stuff to come
